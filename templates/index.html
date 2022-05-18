@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+
+        <!-- Подключаю CSS -->
+        <link href="{{ url_for('static', filename='css/style.css')}}" rel="stylesheet" type="text/css"/>
+
+        <title>Doc search</title>
+    </head>
+    <body>
+
+        <!-- Поле ввода для поиска по строке -->
+        <form method="POST" action="/reg_run">
+            <input placeholder="enter your search ..." name="search">
+        </form>
+
+        <!-- Поле ввода для удаления по id -->
+        <form method="POST" action="/id_delete">
+            <input placeholder="enter id for delete ..." name="del_choice">
+        </form>
+
+        <!-- Таблица из бд -->
+        <table>
+        <caption>Documents</caption>
+        {% for i in bd -%}
+            <tr><th>{{i['id']}}</th><th>{{i['rubrics']}}</th><th>{{i['text']}}</th><th>{{i['created_date']}}</th></tr>
+        {% endfor %}
+        </table>
+    </body>
+</html>
+

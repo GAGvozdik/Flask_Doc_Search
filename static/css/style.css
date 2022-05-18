@@ -1,0 +1,48 @@
+
+body{
+    font-size: 15px;
+}
+
+caption{
+    font-size: 45px;
+    padding: 25px;
+    font-weight: bold;
+}
+
+table, tr, th {
+    border: 3px solid grey;
+    border-collapse:collapse;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+input{
+    font-size: 20px;
+    border: 3px solid grey;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 15px;
+
+}
+th:hover{
+    background: rgba(153, 204, 255, 0.5);
+}
+
+tr:hover{
+    background: rgb(245, 245, 245);
+}
+
+input:hover{
+    background: rgba(153, 204, 255, 0.5);
+    padding: 20px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 35px;
+
+}
+
+
+

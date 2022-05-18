@@ -1,2 +1,10 @@
 # Flask_Doc_Search
-a search engine for the texts of documents. The data is stored in the database  DB structure:  - 'id' - unique for each document; - 'rubrics' - array of categories; - 'text' - the text of the document; - `created_date' - the date the document was created.  the service should accept any text request as input, search through the text of the document and return the first 20 documents with all the fields of the database, ordered by the date of creation; removes the document from the database and the index by the `id' field.
+
+Поисковик по текстам документов. Данные хранятся в БД test_db.db, который можно создать внутри программы прописав в консоль 
+from app import create_db
+create_db()
+ 
+Для запуска на локальном сервере нужно активировать виртуальное окружение, запустить проект
+и пройти по ссылке.
+
+Поиск и удаление производятся путем ввода через enter требующихся запросов
