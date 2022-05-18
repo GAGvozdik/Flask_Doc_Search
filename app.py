@@ -57,7 +57,7 @@ def reg_run():
     a = request.form['search']
     db = get_db()
     cur = db.cursor()
-    cur.execute("SELECT * FROM (SELECT * FROM test_db WHERE text LIKE (?) LIMIT 6)", (('%' + a + '%'),))
+    cur.execute("SELECT * FROM (SELECT * FROM test_db WHERE text LIKE (?) LIMIT 20)", (('%' + a + '%'),))
     result = cur.fetchall()
     print(result)
     return render_template('index.html', bd = result)
