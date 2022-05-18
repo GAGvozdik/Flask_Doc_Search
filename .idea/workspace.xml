@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85034dfa-d729-4712-b6ab-5ba169fc67f5" name="Default Changelist" comment="">
+    <list default="true" id="8aff605f-6518-4b75-b4e9-dc1dabb8b487" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Flask_Doc_Search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/01_work_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="29AWzmmTRgLFomInzNBM96zC3gl" />
+  <component name="ProjectId" id="29JvGzI4Bq1DPiyIYN7J148PvzE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,16 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\fenik\Desktop\0_python\27_FLASK\01_work_test" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="01_work_test" />
+      <module name="Flask_Doc_Search" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -68,50 +66,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85034dfa-d729-4712-b6ab-5ba169fc67f5" name="Default Changelist" comment="" />
-      <created>1652556634281</created>
+      <changelist id="8aff605f-6518-4b75-b4e9-dc1dabb8b487" name="Default Changelist" comment="" />
+      <created>1652843910708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652556634281</updated>
+      <updated>1652843910708</updated>
     </task>
     <servers />
   </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652558218777">
+    <state x="361" y="71" key="#Notifications" timestamp="1652843959354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652558218777" />
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652751617095">
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1652843959354" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1652844150214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1652751617095" />
-    <state width="1515" height="207" key="GridCell.Tab.0.bottom" timestamp="1652839851635">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652844150214" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1652844150214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652839851635" />
-    <state width="1515" height="207" key="GridCell.Tab.0.center" timestamp="1652839851634">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652844150214" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1652844150214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652839851634" />
-    <state width="1515" height="207" key="GridCell.Tab.0.left" timestamp="1652839851634">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652844150214" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1652844150214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652839851634" />
-    <state width="1515" height="207" key="GridCell.Tab.0.right" timestamp="1652839851634">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652839851634" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1652842378799">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1652842378799" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652821110106">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1652821110106" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652844150214" />
   </component>
 </project>
